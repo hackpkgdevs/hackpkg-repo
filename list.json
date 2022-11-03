@@ -1,2 +1,6 @@
 {
+  "package": {
+    "install_url": "https://raw.githubusercontent.com/hackpkgdevs/hackpkg-repo/main/packages/install/nmap.sh",
+    "remove_url": "https://raw.githubusercontent.com/hackpkgdevs/hackpkg-repo/main/packages/remove/nmap.sh"
+  }
 }
