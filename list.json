@@ -4,11 +4,11 @@
     "remove_url": "https://raw.githubusercontent.com/hackpkgdevs/hackpkg-repo/main/packages/remove/nmap.sh"
   },
   "netcat": {
-    "install_url": "",
-    "remove_url": ""
+    "install_url": "https://raw.githubusercontent.com/hackpkgdevs/hackpkg-repo/main/packages/install/netcat.sh",
+    "remove_url": "https://raw.githubusercontent.com/hackpkgdevs/hackpkg-repo/main/packages/remove/netcat.sh"
   },
   "aircrack-ng": {
-    "install_url": "",
-    "remove_url": ""
+    "install_url": "https://raw.githubusercontent.com/hackpkgdevs/hackpkg-repo/main/packages/install/aircrakng.sh",
+    "remove_url": "https://raw.githubusercontent.com/hackpkgdevs/hackpkg-repo/main/packages/remove/aircrackng.sh"
   }
 }
